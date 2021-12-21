@@ -18,3 +18,4 @@
 | |1|2|3|4|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(12.06) - 1단계 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+|2주차(12.21) - 1단계 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) |
