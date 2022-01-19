@@ -21,3 +21,5 @@
 |2주차(12.21) - 1단계 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) |
 |3주차(01.04) - 1단계 | [수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) | |
 |4주차(01.17) - 1단계 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) |
+|5주차(01.24) - 1단계 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |
+[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
