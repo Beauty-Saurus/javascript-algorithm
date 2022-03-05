@@ -22,6 +22,7 @@
 |3주차(01.04) - 1단계 | [수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) | |
 |4주차(01.17) - 1단계 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) |
 |5주차(01.24) - 1단계 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 
-|6주차(01.30) - 1단계 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [없느 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
+|6주차(01.30) - 1단계 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 
 |7주차(02.13) - 2단계 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#) | 
-|8주차(03.05) - 1,2단계 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |
+| 8주차(02.19) - 2단계 | [음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [멀쩡한사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|
+|9주차(03.05) - 1,2단계 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |
